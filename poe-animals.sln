@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poe-animals.CSharp", "poe-animals.CSharp.csproj", "{C2E6FFEE-E6B3-E497-64FF-29593F4AA141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poe-animals.CSharp.Editor", "poe-animals.CSharp.Editor.csproj", "{D4F588B8-C233-D69B-0B41-44DFACB4D90C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E6FFEE-E6B3-E497-64FF-29593F4AA141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E6FFEE-E6B3-E497-64FF-29593F4AA141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E6FFEE-E6B3-E497-64FF-29593F4AA141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E6FFEE-E6B3-E497-64FF-29593F4AA141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F588B8-C233-D69B-0B41-44DFACB4D90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F588B8-C233-D69B-0B41-44DFACB4D90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F588B8-C233-D69B-0B41-44DFACB4D90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F588B8-C233-D69B-0B41-44DFACB4D90C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

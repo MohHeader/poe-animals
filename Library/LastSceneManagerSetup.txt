@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/poe-demo03.unity
+  isLoaded: 1
+  isActive: 1
